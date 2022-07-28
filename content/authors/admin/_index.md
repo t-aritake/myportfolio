@@ -1,17 +1,17 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: 有竹 俊光
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: 統計数理研究所　統計的機械学習研究センター　特任助教
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: 統計数理研究所（The Institute of Statistical Mathematics）
+    url: https://www.ism.ac.jp
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
