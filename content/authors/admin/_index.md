@@ -18,11 +18,11 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Machine Learning
-    - Sparse Modeling
-    - Domain Adaptation
-    - Optimal Transport
+    - Artificial Intelligence
+    - Machine Learning
+        - Sparse Modeling
+        - Domain Adaptation
+        - Optimal Transport
 
 # Education to show in About widget
 education:
@@ -71,7 +71,7 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-
+あああああああああああああ
 # Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 # 
 # Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
