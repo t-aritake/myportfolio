@@ -30,27 +30,30 @@ education:
     - course: 博士（工学） Doctor of Engineering
       institution: 早稲田大学（Waseda University）　先進理工学研究科　電気・情報生命専攻
       year: 2021
-    - course: 修士（工学）MEng 
+    - course: 修士（工学）Master of Engineering
       institution: 早稲田大学（Waseda University）　先進理工学研究科　電気・情報生命専攻
+      year: 2014
+    - course: 学士（工学）Bachelor of Engineering
+      institution: 早稲田大学（Waseda University）　先進理工学研究科　電気・情報生命工学科
       year: 2012
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
 
+<!--
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
+-->
 social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-#   - icon: twitter
-#     icon_pack: fab
-#     link: https://twitter.com/GeorgeCushen
+<!--  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/GeorgeCushen
+-->
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.co.jp/citations?user=V7LTDiEAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/t-aritake
@@ -71,9 +74,8 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-あああああああああああああ
-# Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+*Toshimitsu Aritake* received his bachelor's dgree and master's degree in engineering in 2008 from Waseda University, Japan.
+He joined Hitachi Ltd., central research laboratory and worked as a research staff from April 2014 to August 2017. He earned doctor's degree in engineering in 2021 from Waseda University. From April 2021, he is a project assistant professor at the Institue of Statistical Mathematics (ISM).
+He is a member of IEEE.
 # 
-# Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-# 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+<!--{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.-->
