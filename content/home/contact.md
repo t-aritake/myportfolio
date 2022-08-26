@@ -16,18 +16,18 @@ content:
   autolink: true
 
   # Email form provider
-  form:
-    provider: netlify
-    formspree:
-      id:
-    netlify:
-      # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+  # form:
+  #   provider: netlify
+  #   formspree:
+  #     id:
+  #   netlify:
+  #     # Enable CAPTCHA challenge to reduce spam?
+  #     captcha: false
 
   # Contact details (edit or remove options as required)
-  email: aritake@ism.ac.jp
+  email: aritake[at]ism.ac.jp
   # phone: 888 888 88 88
-  # address:
+  address: 〒190-8562 東京都立川市緑町10-3 統計数理研究所
   #   street: 450 Serra Mall
   #   city: Stanford
   #   region: CA
