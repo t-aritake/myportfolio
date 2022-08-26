@@ -27,7 +27,7 @@ content:
   # Contact details (edit or remove options as required)
   email: aritake[at]ism.ac.jp
   # phone: 888 888 88 88
-  address: 〒190-8562 東京都立川市緑町10-3 統計数理研究所
+  # address: 〒190-8562 東京都立川市緑町10-3 統計数理研究所
   #   street: 450 Serra Mall
   #   city: Stanford
   #   region: CA
