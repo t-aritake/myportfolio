@@ -29,7 +29,7 @@ feature:
     icon_pack: fas
     name: Statistics
   - description: sparse modeling, neural network, domain adaptation
-    icon: microchip-ai
+    icon: robot
     icon_pack: fas
     name: Machine Learning
 #   - description: 10%
