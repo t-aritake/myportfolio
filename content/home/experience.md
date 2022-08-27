@@ -22,15 +22,13 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Project Assistant Professor (特任助教)
-    company: The Institute of Statistical Mathematics, Research Center for Statistical Machine Learning
-    company_url: ''
+  - title: 'Project Assistant Professor (特任助教)'
+    company: 'The Institute of Statistical Mathematics, Research Center for Statistical Machine Learning'
     date_start: '2021-04-01'
     date_end: ''
 
-  - title: Research Staff (研究員）
-    company: Hitachi Ltd. （株式会社日立製作所）
-    company_url: ''
+  - title: 'Research Staff (研究員）'
+    company: 'Hitachi Ltd. （株式会社日立製作所）'
     date_start: '2014-04-01'
     date_end: '2017-8-31'
 
