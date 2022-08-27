@@ -30,7 +30,7 @@ experience:
   - title: 'Research Staff (研究員）'
     company: 'Hitachi Ltd. （株式会社日立製作所）'
     date_start: '2014-04-01'
-    date_end: '2017-8-31'
+    date_end: '2017-08-31'
 
 design:
   columns: '2'
