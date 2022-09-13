@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Toshimitsu Aritake
+title: 有竹 俊光
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Research Center for Statistical Machine Learning Project Assistant Professor
+role: 統計的機械学習研究センター　特任助教（Research Center for Statistical Machine Learning）
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Research Organization of Information and Systems, The Institute of Statistical Mathematics
+  - name: 情報・システム研究機構　統計数理研究所（The Institute of Statistical Mathematics）
     url: https://www.ism.ac.jp
 
 # Short bio (displayed in user profile at end of posts)
@@ -26,14 +26,14 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: Doctor of Engineering
-      institution: Waseda University Graduate School of Advanced Science and Engineering, Department of Electrical Engineering and Bioscience
+    - course: 博士（工学） Doctor of Engineering
+      institution: 早稲田大学（Waseda University）　先進理工学研究科　電気・情報生命専攻
       year: 2021
-    - course: Master of Engineering
-      institution: Waseda University Graduate School of Advanced Science and Engineering, Department of Electrical Engineering and Bioscience
+    - course: 修士（工学）Master of Engineering
+      institution: 早稲田大学（Waseda University）　先進理工学研究科　電気・情報生命専攻
       year: 2014
-    - course: Bachelor of Engineering
-      institution: Waseda University School of Advanced Science and Engineering, Department of Electrical Engineering and Bioscience
+    - course: 学士（工学）Bachelor of Engineering
+      institution: 早稲田大学（Waseda University）　先進理工学研究科　電気・情報生命工学科
       year: 2012
 
 # Social/Academic Networking
