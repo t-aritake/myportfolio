@@ -3,7 +3,7 @@
 
 title: "Unsupervised Domain Adaptation for Extra Features in the Target Domain Using Optimal Transport"
 authors: ["Toshimitsu Aritake", "Hideitsu Hino"]
-date: 2022-09-13T11:35:49+09:00
+date: 2022-09-13
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
