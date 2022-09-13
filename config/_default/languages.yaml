@@ -12,7 +12,7 @@ en:
   menu:
     main:
       - name: test
-        url: '#about'
+        url: '#projects'
         weight: 1
 
 
