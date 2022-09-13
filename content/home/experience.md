@@ -10,7 +10,7 @@ headless: true
 weight: 40
 
 title: Vitae
-subtitle:職歴・教育歴
+subtitle: '職歴・教育歴'
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
