@@ -32,6 +32,16 @@ experience:
     date_start: '2021-04-01'
     date_end: ''
 
+  - title: 'Research Assitant'
+    company: 'The Institute of Statistical Mathematics, Department of Statistical Modeling'
+    date_start: '2018-07-01'
+    date_end: '2021-03-31'
+
+  - title: 'Teaching Assitant for Experiments'
+    company: 'Waseda University School of Advanced Science and Engineering'
+    date_start: '2018-09-01'
+    date_end: '2019-08-31'
+
   - title: 'Research Staff'
     company: 'Hitachi Europe Ltd. (temporary transfer)'
     date_start: '2015-10-01'
