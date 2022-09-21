@@ -26,7 +26,7 @@ abstract: Domain adaptation aims to transfer knowledge of labeled instances obta
 
 tags: ['domain adaptation']
 # categories: []
-featured: false
+featured: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.

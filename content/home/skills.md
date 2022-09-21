@@ -32,6 +32,10 @@ feature:
     icon: robot
     icon_pack: fas
     name: Machine Learning
+  - description: Server administration
+    icon: linux
+    icon_pack: fab
+    name: Linux
 #   - description: 10%
 #     icon: camera-retro
 #     icon_pack: fas

@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Vitae
-subtitle: '職歴・教育歴'
+title: '職歴・教育歴'
+subtitle: 
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
@@ -32,8 +32,18 @@ experience:
     date_start: '2021-04-01'
     date_end: ''
 
+  - title: 'Project Assistant Professor (特任助教)'
+    company: 'The Institute of Statistical Mathematics, Research Center for Statistical Machine Learning（情報・システム研究機構　統計数理研究所　統計的機械学習研究センター）'
+    date_start: '2021-04-01'
+    date_end: ''
+
+  - title: 'Research Staff'
+    company: 'Hitachi Europe Ltd.（出向）'
+    date_start: '2015-10-01'
+    date_end: '2017-08-21'
+
   - title: 'Research Staff (研究員）'
-    company: 'Hitachi Ltd. （株式会社日立製作所）'
+    company: '株式会社日立製作所'
     date_start: '2014-04-01'
     date_end: '2017-08-31'
 

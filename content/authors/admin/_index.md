@@ -6,11 +6,11 @@ title: 有竹 俊光
 superuser: true
 
 # Role/position/tagline
-role: 統計的機械学習研究センター　特任助教（Research Center for Statistical Machine Learning）
+role: 統計的機械学習研究センター　特任助教
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: 情報・システム研究機構　統計数理研究所（The Institute of Statistical Mathematics）
+  - name: 情報・システム研究機構　統計数理研究所
     url: https://www.ism.ac.jp
 
 # Short bio (displayed in user profile at end of posts)
@@ -26,14 +26,14 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: 博士（工学） Doctor of Engineering
-      institution: 早稲田大学（Waseda University）　先進理工学研究科　電気・情報生命専攻
+    - course: 博士（工学）
+      institution: 早稲田大学　先進理工学研究科　電気・情報生命専攻
       year: 2021
-    - course: 修士（工学）Master of Engineering
-      institution: 早稲田大学（Waseda University）　先進理工学研究科　電気・情報生命専攻
+    - course: 修士（工学）
+      institution: 早稲田大学　先進理工学研究科　電気・情報生命専攻
       year: 2014
-    - course: 学士（工学）Bachelor of Engineering
-      institution: 早稲田大学（Waseda University）　先進理工学研究科　電気・情報生命工学科
+    - course: 学士（工学）
+      institution: 早稲田大学　先進理工学研究科　電気・情報生命工学科
       year: 2012
 
 # Social/Academic Networking
