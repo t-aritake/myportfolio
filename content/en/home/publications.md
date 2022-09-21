@@ -10,7 +10,7 @@ headless: true
 weight: 90
 
 title: Publications
-subtitle: ''
+subtitle: 'Publication list can be found [here](./publication_list/)'
 
 content:
   # Filter on criteria
