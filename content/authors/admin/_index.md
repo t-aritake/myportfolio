@@ -18,10 +18,11 @@ bio: My research interests is statistics and machine learning including sparse m
 
 # Interests to show in About widget
 interests:
-    - Sparse modeling 
-    - Neural Networks
-    - Domain Adaptation
-    - Optimal Transport
+    - スパースモデリング
+    - ニューラルネットワーク，深層学習
+    - 最適輸送
+    - ドメイン適応
+    - 時系列解析
 
 # Education to show in About widget
 education:
@@ -56,6 +57,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/toshimitsu-aritake-47bb0111b
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/0000-0003-1322-9157
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
@@ -74,4 +78,4 @@ highlight_name: true
 He joined Hitachi Ltd., central research laboratory and worked as a research staff from April 2014 to August 2017. He earned doctor's degree in engineering in 2021 from Waseda University. From April 2021, he is a project assistant professor at the Institue of Statistical Mathematics (ISM).
 He is a member of IEEE.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} CVは{{< staticref "uploads/resume_ja.pdf" "newtab" >}}こちら{{< /staticref >}}.

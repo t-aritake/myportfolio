@@ -3,8 +3,8 @@
 
 title: "Detecting cell assemblies by NMF-based clustering from calcium imaging data"
 authors: ["Mizuo Nagayama", "Toshimitsu Aritake", "Hideitsu Hino", "Takeshi Kanda", "Takehiro Miyazaki", "Masashi Yanagisawa", "Shotaro Akaho", "Noboru Murata"]
-date: 2022-05
-doi: doi.org/10.1016/j.neunet.2022.01.023
+date: 2022-05-01
+doi: '10.1016/j.neunet.2022.01.023'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2022-09-19T20:51:11+09:00

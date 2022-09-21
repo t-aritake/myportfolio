@@ -10,7 +10,7 @@ headless: true
 weight: 40
 
 title: Vitae
-subtitle: '職歴・教育歴'
+subtitle: ''
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
@@ -32,7 +32,7 @@ experience:
     date_start: '2021-04-01'
     date_end: ''
 
-  - title: 'Research Assitant'
+  - title: 'Technical Assitant'
     company: 'The Institute of Statistical Mathematics, Department of Statistical Modeling'
     date_start: '2018-07-01'
     date_end: '2021-03-31'
@@ -42,11 +42,10 @@ experience:
     date_start: '2018-09-01'
     date_end: '2019-08-31'
 
-  - title: 'Research Staff'
+  - title: 'Research Engineer'
     company: 'Hitachi Europe Ltd. (temporary transfer)'
     date_start: '2015-10-01'
     date_end: '2017-08-21'
-
 
   - title: 'Research Staff'
     company: 'Hitachi Ltd. '
