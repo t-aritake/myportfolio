@@ -74,7 +74,7 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-*Toshimitsu Aritake* received his bachelor's dgree and master's degree in engineering in 2008 from Waseda University, Japan.
+*Toshimitsu Aritake* received his bachelor's degree and master's degree in engineering in 2008 from Waseda University, Japan.
 He joined Hitachi Ltd., central research laboratory and worked as a research staff from April 2014 to August 2017. He earned doctor's degree in engineering in 2021 from Waseda University. From April 2021, he is a project assistant professor at the Institue of Statistical Mathematics (ISM).
 He is a member of IEEE.
 
