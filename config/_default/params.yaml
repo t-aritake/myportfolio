@@ -21,7 +21,8 @@ marketing:
     description: "Toshimitsu Aritake's portfolio website."
     twitter: 'wowchemy'
   analytics:
-    google_analytics: 'G-RFN3RV83N3'
+    google_analytics: ''
+    google_tag_manager: 'G-64KJ48V0BH'
     baidu_tongji: ''
   verification:
     google: ''
