@@ -3,6 +3,7 @@ title: Slides
 summary: An introduction to using Wowchemy's Slides feature.
 authors: []
 tags: []
+draft: true
 categories: []
 date: '2019-02-05T00:00:00Z'
 slides:
