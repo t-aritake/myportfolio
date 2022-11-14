@@ -27,7 +27,7 @@
   translation: 関連項目
 
 - id: minute_read
-  translation: 分で読める
+  translation: minute_read
 
 - id: previous
   translation: 前へ
@@ -47,10 +47,10 @@
   translation: 表示設定
 
 - id: theme_light
-  translation: ライト
+  translation: Light
 
 - id: theme_dark
-  translation: ダーク
+  translation: Dark
 
 - id: theme_auto
   translation: 自動
@@ -58,7 +58,7 @@
 # Buttons
 
 - id: btn_preprint
-  translation: プレプリント
+  translation: Preprint
 
 - id: btn_pdf
   translation: PDF

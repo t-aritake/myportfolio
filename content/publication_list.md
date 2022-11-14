@@ -33,8 +33,6 @@ header:
 1. <u>有竹 俊光</u>，日野 英逸，["変数の拡張に対する最適輸送を用いたドメイン適応"](/ja/publication/DAEFS_ibis/), 情報論的学習理論と機械学習研究会 (IBISML)，2022. オンライン.
 
 ### Preprints
-1. <u>Toshimitsu Aritake</u>, Hideitsu Hino, Shigeyuki Namiki, Daisuke Asanuma, Kenzoh Hirose, Noboru Murata, ["Fast and robust multiplane single-molecule localization microscopy using a deep neural network,"](/ja/publication/microscopy_classification_arxiv/)  arXiv, 2020.
-1. <u>Toshimitsu Aritake</u>, Hideitsu Hino, ["Unsupervised Domain Adaptation for Extra Features in the Target Domain Using Optimal Transport."](/ja/publication/DAEFS_paper_arxiv), arXiv, 2022.
 ### その他
 1. 谷 繁幸，Jonas Christoffer Villumsen，有竹 俊光，Bruno Hannibal Taylor，"データ流通により加速する社会変革", 日立評論, Vol.99, No.3, 2017.
 1. <u>有竹 俊光</u>, 鴨志田 亮太,"データ処理システム、及び、データ処理方法", 特許 6454222, 2019.

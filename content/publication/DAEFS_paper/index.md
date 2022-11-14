@@ -37,6 +37,7 @@ featured: true
 #   icon: twitter
 
 url_pdf:
+url_preprint: 'https://arxiv.org/abs/2209.04594'
 url_code:
 url_dataset:
 url_poster:

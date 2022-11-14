@@ -5,6 +5,7 @@ title: "Unsupervised Domain Adaptation for Extra Features in the Target Domain U
 authors: ["Toshimitsu Aritake", "Hideitsu Hino"]
 date: 2022-09-13
 doi: "10.48550/ARXIV.2209.04594"
+draft: true
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2022-09-16T23:22:21+09:00
