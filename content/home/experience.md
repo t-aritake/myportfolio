@@ -22,6 +22,11 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: '講師'
+    company: '一橋大学　社会科学高等研究院（HIAS）'
+    date_start: '2023-04-01'
+    date_end: ''
+
   - title: '外部講師'
     company: '立教大学大学院　人工知能科学研究科'
     date_start: '2022-04-01'
@@ -30,7 +35,7 @@ experience:
   - title: '特任助教'
     company: '情報・システム研究機構　統計数理研究所　統計的機械学習研究センター'
     date_start: '2021-04-01'
-    date_end: ''
+    date_end: '2023-03-31'
 
   - title: '技術補佐員'
     company: '情報・システム研究機構　統計数理研究所　モデリング研究系'
